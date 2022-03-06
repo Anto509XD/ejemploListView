@@ -1,5 +1,6 @@
 package com.example.ejemplolistview
 
+//Frutas
 
 class Fruta(nombre:String, imagen:Int) {
     var nombre:String = ""
