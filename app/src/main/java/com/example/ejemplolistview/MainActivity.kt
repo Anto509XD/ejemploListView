@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //main Activity
+
 
         var frutas: ArrayList<String>
         frutas = ArrayList()
