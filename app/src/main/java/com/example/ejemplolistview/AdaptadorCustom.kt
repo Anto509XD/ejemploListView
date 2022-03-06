@@ -11,6 +11,8 @@ import android.widget.TextView
 
 class AdaptadorCustom(var context: Context, items:ArrayList<Fruta>): BaseAdapter() {
 
+    //adaptador custom
+
     var items:ArrayList<Fruta>? = null
 
     init {
